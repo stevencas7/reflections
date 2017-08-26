@@ -3,3 +3,9 @@ It creates .git folder.
 
 Why do you need to do it?
 To start versioning my folder!
+
+How can you use the staging area to make sure you have one commit per logical change?
+Sometimes you can do many changes are the same time, that is more than one logical change at the same time.
+Then you can sent to the staging area one locical change and commit. Then sent to staging area the next logical change an commit, etc.
+Great!
+
