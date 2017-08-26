@@ -1,0 +1,5 @@
+What happens when you initialize a repository?
+It creates .git folder.
+
+Why do you need to do it?
+To start versioning my folder!
