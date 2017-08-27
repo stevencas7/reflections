@@ -1,0 +1,5 @@
+What are some situations when branches would be helpful in keeping your history organized?
+When I create different versions of the game.
+
+How would branches help?
+Because I will have to different branches with different logic and avoid to confuse the codes
