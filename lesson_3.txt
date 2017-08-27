@@ -6,3 +6,6 @@ Because I will have to different branches with different logic and avoid to conf
 
 How do the diagrams help you visualize the branch structure?
 The diagrams allow me to look the branches that have been created and the specific point (commit) where they born.
+
+What is the result of merging two branches together?
+The current checked out branch will be check out as the merge.
