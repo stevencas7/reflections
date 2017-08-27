@@ -2,3 +2,6 @@ This is the file created directly in github.com for lesson_4.6
 
 When would you want to use a remote repository rather than keeping all your work local?
 When I am working with a team or I want to track my projects from different PCs.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+In that ways I have a clear control over the changes that I want to public.
