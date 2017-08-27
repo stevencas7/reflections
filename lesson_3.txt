@@ -3,3 +3,6 @@ When I create different versions of the game.
 
 How would branches help?
 Because I will have to different branches with different logic and avoid to confuse the codes
+
+How do the diagrams help you visualize the branch structure?
+The diagrams allow me to look the branches that have been created and the specific point (commit) where they born.
