@@ -9,3 +9,6 @@ The diagrams allow me to look the branches that have been created and the specif
 
 What is the result of merging two branches together?
 The current checked out branch will be check out as the merge.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic is faster. Manually is more clear and transparent.
